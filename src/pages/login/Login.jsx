@@ -47,7 +47,7 @@ const Signup = () => {
                     <Button btnText={"Login"} />
                 </div>
                 <div className='mt-5'>
-                    Don't have an account yet? <Link to={'/signup'} className="text-[#605BFF]">New Account</Link>
+                    Don't have an account yet? <Link to={'/'} className="text-[#605BFF]">New Account</Link>
                 </div>
             </div>
             <div className="h-full w-full p-4 bg-[#FAFAFA] flex justify-center items-center hidden md:flex">
