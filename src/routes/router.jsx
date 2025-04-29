@@ -4,7 +4,7 @@ import Login from "../pages/login/Login";
 
 export const publicRoutes = createBrowserRouter([
     {
-        path: "/signup",
+        path: "/",
         element: <Signup />,
     },
     {
